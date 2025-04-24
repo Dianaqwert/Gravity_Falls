@@ -1,10 +1,11 @@
+![image](https://github.com/user-attachments/assets/168c3a02-6923-4343-b6cb-3cdd84c39ff7)
+
 # Juego en C++ 
 - Tematica : GravityFalls
 
----
 ## Descripción del proyecto:
 - Este juego fue desarrollado como parte de la materia Programación Orientada a Objetos en el tercer semestre de la carrera de Ingeniería en Sistemas Computacionales (ISC).
-- Mediante la creación de un sistema estructurado con clases, lógica de herencia, y polimorfismo.
+- Mediante la creación de un sistema estructurado por medio de un proyecto llamado `Proyecto.dev` con clases, lógica de herencia, y polimorfismo.
 - El proyecto aplica los siguientes conceptos fundamentales de la programación orientada a objetos:
 - 1. Uso de clases y herencia
   2. Implementación de polimorfismo
@@ -17,15 +18,14 @@
 - Incluye música de fondo para ambientar la experiencia
 - El jugador cuenta con 3 vidas que se van reiniciando en cada nivel y dependiendo de su puntuacion se graban en el archivo txt llamado `Registros.txt`
 - El jugador controla al personaje principal mediante el teclado
-
 --
-#Tecnologías utilizadas:
+## Tecnologías utilizadas:
 - Lenguaje: C++
 - Librería gráfica y de audio: Allegro
 --
 ## Requisitos
 - Antes de ejecutar el programa, asegúrate de tener instalada la biblioteca Allegro en tu sistema.
--⚠️ El juego no funcionará si Allegro no está correctamente instalado.
+- ⚠️El juego no funcionará si Allegro no está correctamente instalado.
 ## Ejecución del juego
 - Una vez instalada la biblioteca Allegro, simplemente ejecuta el archivo:
 - `Proyecto.exe`
