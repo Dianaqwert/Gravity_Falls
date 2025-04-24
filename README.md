@@ -22,7 +22,7 @@
 ## Tecnologías utilizadas:
 - Lenguaje: C++
 - Librería gráfica y de audio: Allegro
---
+  
 ## Requisitos
 - Antes de ejecutar el programa, asegúrate de tener instalada la biblioteca Allegro en tu sistema.
 - ⚠️El juego no funcionará si Allegro no está correctamente instalado.
